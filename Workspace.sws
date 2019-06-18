@@ -5,7 +5,7 @@
 <Workspace>
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{2ECCB107-5FA4-4853-9269-34510A0B955B}" Name="Gacela_Modelo_CU" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Gacela_Modelo_CU.oom"/>
-		<Model ID="{EA77FF61-EDE9-4A5C-BC50-14ECF1D1AC2C}" Name="Diagarama Fisico Gacela" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagarama Fisico Gacela.pdm"/>
+		<Model Expanded="Yes" ID="{EA77FF61-EDE9-4A5C-BC50-14ECF1D1AC2C}" Name="Diagarama Fisico Gacela" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Diagarama Fisico Gacela.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
